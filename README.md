@@ -10,5 +10,5 @@ Click a box and hit the number on your keybaord to pencil in a number. To confir
 
 # Run in Gitpod
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/https://gitpod.io/#https://github.com/nv1/SudokuSolver/blob/master/GUI.py)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/https://gitpod.io/github.com/nv1/SudokuSolver/blob/master/GUI.py)
 
